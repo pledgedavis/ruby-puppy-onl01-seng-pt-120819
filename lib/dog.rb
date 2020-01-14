@@ -15,7 +15,7 @@
         end
         def self.print_all
           # @@all.each do |name|
-          puts @@all
+          @@all.inspect
           end
 end
   
