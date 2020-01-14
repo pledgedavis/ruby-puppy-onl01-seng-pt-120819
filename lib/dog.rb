@@ -14,7 +14,7 @@
           @@all.clear
         end
         def self.print_all
-          @@all.print
+          @@all
           
           end
 end
