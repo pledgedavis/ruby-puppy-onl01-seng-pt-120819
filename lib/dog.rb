@@ -14,8 +14,8 @@
           @@all.clear
         end
         def self.print_all
-          @@all.each do |name|
-          
+          # @@all.each do |name|
+          @@all.print
           end
 end
   
